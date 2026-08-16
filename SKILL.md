@@ -2,7 +2,7 @@
 name: financing-lease-contract-review
 description: Use when reviewing financing lease, sale-and-leaseback, guarantee, lease-object purchase, supplementary, amendment, or transaction-package documents. Routes documents, reconstructs amendment history and effective terms, verifies legal sources, identifies approval conditions, and produces a financial-institution internal risk memorandum without uploading sensitive materials.
 version: 1.1.0
-author: Hermes Agent; adapted from CSlawyer1985/claude-for-legal-ZH
+author: stormchaser
 license: Apache-2.0
 metadata:
   hermes:
